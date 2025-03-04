@@ -15,7 +15,6 @@ const Login = () => {
                   <div className="flex flex-col items-center text-center">
                     <h1 className="text-2xl font-bold">渡鸦管理后台</h1>
                     <p className="text-balance text-muted-foreground">
-                      贷款业务管理
                     </p>
                   </div>
                   <div className="grid gap-2">
@@ -102,8 +101,6 @@ const Login = () => {
             </CardContent>
           </Card>
           <div className="text-balance text-center text-xs text-muted-foreground [&_a]:underline [&_a]:underline-offset-4 hover:[&_a]:text-primary">
-            本程序由渡鸦工作室开发,唯一TG官方客服{" "}
-            <a href="https://t.me/Zack_Re">Zack</a>{" "}
           </div>
         </div>
       </div>
